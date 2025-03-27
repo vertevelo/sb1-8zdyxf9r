@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-4xl mx-auto px-4">
         <div className="flex justify-center space-x-6 mb-8">
           <a href="#" className="text-white/60 hover:text-white transition-colors">
-            <Instagram size={24} />
+          https://www.instagram.com/vaynex061?igsh=cjR4NzNvMWRtcG03&utm_source=qr
           </a>
           <a href="#" className="text-white/60 hover:text-white transition-colors">
           https://www.youtube.com/@vaynix-061
