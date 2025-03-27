@@ -18,7 +18,7 @@ export default function Hero() {
           Vaynex
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in-delay">
-          Beatmaker • Rapper • Creator •
+          Beatmaker • Rapper • Creator
         </p>
 
       </div>
