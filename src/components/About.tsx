@@ -12,7 +12,7 @@ export default function About() {
       <div className="relative max-w-4xl mx-auto px-4 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-8">About</h2>
         <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-          Vaynex blends raw lyrical energy with hypnotic beats. With roots in underground rap and a deep sense for digital soundscapes, he creates music that resonates with both the soul and the subwoofer. His lyrics explore unconventional stories and reflections on life and mental health.
+          tVaynex blends raw lyrical energy with hypnotic beats. With roots in underground rap and a deep sense for digital soundscapes, he creates music that resonates with both the soul and the subwoofer. His lyrics explore unconventional stories and reflections on life and mental health.
         </p>
         <p className="text-2xl font-bold text-white/80">
           "Beats built to break silence."
