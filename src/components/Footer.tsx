@@ -10,10 +10,10 @@ export default function Footer() {
             <Instagram className="w-6 h-6" />
           </a>
           <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
-            <Youtube className="w-6 h-6" />
+            <Youtube className="w-6 h-6" />https://www.youtube.com/@vaynix-061
           </a>
           <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
-            <Music className="w-6 h-6" />
+            <Music className="w-6 h-6" />https://on.soundcloud.com/MV3ujo8AhBNPdZrn7
           </a>
         </div>
         <div className="text-center text-gray-500 text-sm">
