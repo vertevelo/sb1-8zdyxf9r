@@ -9,11 +9,11 @@ export default function Footer() {
           <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
             <Instagram className="w-6 h-6" />
           </a>
-          <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
-            <Youtube className="w-6 h-6" />https://www.youtube.com/@vaynix-061
+          <a href="https://www.youtube.com/@vaynix-061" className="text-gray-400 hover:text-purple-500 transition-colors">
+            <Youtube className="w-6 h-6" />
           </a>
-          <a href="#" className="text-gray-400 hover:text-purple-500 transition-colors">
-            <Music className="w-6 h-6" />https://on.soundcloud.com/MV3ujo8AhBNPdZrn7
+          <a href="https://on.soundcloud.com/MV3ujo8AhBNPdZrn7" className="text-gray-400 hover:text-purple-500 transition-colors">
+            <Music className="w-6 h-6" />
           </a>
         </div>
         <div className="text-center text-gray-500 text-sm">
