@@ -12,6 +12,7 @@ function App() {
       <Hero />
       <About />
       <LatestRelease />
+      <FeaturedTrack />
       <Quote />
       <Contact />
       <Footer />
