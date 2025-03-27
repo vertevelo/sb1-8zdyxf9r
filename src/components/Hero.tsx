@@ -18,7 +18,7 @@ export default function Hero() {
           Vaynex
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 animate-fade-in-delay">
-          Beatmaker • Rapper • Creator
+          Beatmaker • Rapper • Creator •
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <button className="px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white rounded-full flex items-center gap-2 transition-all transform hover:scale-105">
