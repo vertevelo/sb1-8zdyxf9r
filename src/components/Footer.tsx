@@ -10,10 +10,10 @@ export default function Footer() {
             <Instagram size={24} />
           </a>
           <a href="#" className="text-white/60 hover:text-white transition-colors">
-            <Youtube size={24} />
+          https://www.youtube.com/@vaynix-061
           </a>
           <a href="#" className="text-white/60 hover:text-white transition-colors">
-            <Music size={24} />
+          https://soundcloud.com/vaynex-92421161
           </a>
         </div>
         <div className="text-center text-white/60">
