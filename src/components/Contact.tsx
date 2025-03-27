@@ -5,14 +5,13 @@ export default function Contact() {
     <section className="py-20 bg-black/90">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-white mb-12 text-center">Get in Touch</h2>
-
         <form
           name="contact"
           method="POST"
           data-netlify="true"
-          action="/thanks.html"
           className="max-w-lg mx-auto"
         >
+          {/* Hidden input to trick Netlify into processing the form */}
           <input type="hidden" name="form-name" value="contact" />
 
           <div className="mb-6">

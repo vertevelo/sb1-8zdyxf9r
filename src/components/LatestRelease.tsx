@@ -15,7 +15,7 @@ export default function LatestRelease() {
               frameBorder="no"
               allow="autoplay"
               title="SoundCloud Player"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2062752352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+              src="https://soundcloud.com/vaynex-92421161/you-are-not-alone"
               className="w-full h-full"
             ></iframe>
           </div>
