@@ -13,7 +13,7 @@ export default function Hero() {
       />
       
       <div className="relative z-10 container mx-auto px-4 text-center">
-        <img src="./images/logo.png" alt="Vaynex Logo" className="mx-auto mb-8 w-32 h-32" />
+        <img src="./images/logo.png" alt="Vaynex Logo" className="mx-auto mb-8 w-48 h-auto" />
         <h1 className="text-6xl md:text-8xl font-bold text-white mb-4 animate-fade-in">
           Vaynex
         </h1>
