@@ -3,7 +3,16 @@ import React from 'react';
 export default function Contact() {
   return (
     <section className="py-20 bg-black/90">
-      <div className="container mx-auto px-4">
+
+<div 
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{ 
+          backgroundImage: 'url(./images/about-bg.png)',
+          filter: 'brightness(0.3)'
+        }}
+      />
+
+ 
         <h2 className="text-4xl font-bold text-white mb-12 text-center">Get in Touch</h2>
         <form
           name="contact"
