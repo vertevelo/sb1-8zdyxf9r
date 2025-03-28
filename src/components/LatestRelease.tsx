@@ -59,6 +59,7 @@ export default function LatestRelease() {
 
           {/* YouTube Embed */}
           <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden">
+          Official Music Video
             <iframe
               src="https://www.youtube.com/embed/OAUvlEeCwhE?si=6A94vP4nzrFYfI_m"
               title="YouTube video player"
