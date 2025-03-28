@@ -4,7 +4,7 @@ export default function LatestRelease() {
   return (
     <section className="py-20 bg-black/80">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-white mb-12 text-center">Latest Releases</h2>
+        <h2 className="text-4xl font-bold text-white mb-12 text-center">🎵 Latest Releases</h2>
 
         <div className="grid md:grid-cols-2 gap-8">
           {/* SoundCloud Embed */}

@@ -1,7 +1,6 @@
 import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
-import FeaturedTrack from './components/FeaturedTrack';
 import LatestRelease from './components/LatestRelease';
 import Quote from './components/Quote';
 import Contact from './components/Contact';
@@ -13,7 +12,6 @@ function App() {
       <Hero />
       <About />
       <LatestRelease />
-      <FeaturedTrack />
       <Quote />
       <Contact />
       <Footer />
