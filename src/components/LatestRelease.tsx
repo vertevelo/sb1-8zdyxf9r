@@ -4,11 +4,16 @@ export default function LatestRelease() {
   return (
     <section className="py-20 bg-black/80">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl font-bold text-white mb-12 text-center">🎵 Latest Releases</h2>
+        <h2 className="text-4xl font-bold text-white mb-12 text-center animate__animated animate__fadeInUp">
+          Latest Releases
+        </h2>
 
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 gap-12">
           {/* SoundCloud Embed */}
-          <div className="bg-gray-900 rounded-lg overflow-hidden p-4">
+          <div className="bg-gray-900 rounded-lg overflow-hidden p-4 animate__animated animate__fadeInLeft">
+            <h3 className="text-xl font-semibold text-white mb-4">
+              🎧 Latest Drop on SoundCloud: <span className="text-purple-400">"You Are Not Alone"</span>
+            </h3>
             <iframe
               width="100%"
               height="300"
@@ -19,7 +24,6 @@ export default function LatestRelease() {
               src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2035813820&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
               className="w-full rounded-md shadow-md"
             ></iframe>
-
             <div
               style={{
                 fontSize: '10px',
@@ -58,8 +62,10 @@ export default function LatestRelease() {
           </div>
 
           {/* YouTube Embed */}
-          <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden">
-          Official Music Video
+          <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden animate__animated animate__fadeInRight">
+            <h3 className="text-xl font-semibold text-white mb-4 px-4 pt-4">
+              🎬 Official Music Video: <span className="text-purple-400">"You Are Not Alone"</span>
+            </h3>
             <iframe
               src="https://www.youtube.com/embed/OAUvlEeCwhE?si=6A94vP4nzrFYfI_m"
               title="YouTube video player"
