@@ -11,11 +11,18 @@ export default function About() {
             the soul and the subwoofer. His lyrics explore unconventional stories and reflections 
             on life and mental health.
           </p>
-          <p className="text-2xl md:text-3xl font-bold text-purple-500">
-          🔈 "Beats built to break silence." <br />
-  🎙 "Turning struggles into sound" <br />
-  🧠 "Mental Health in every bar
-          </p>
+
+          <div className="space-y-3 text-2xl md:text-3xl font-bold text-purple-500">
+            <p className="animate__animated animate__fadeInUp animate__delay-1s">
+              🔈 "Beats built to break silence."
+            </p>
+            <p className="animate__animated animate__fadeInUp animate__delay-2s">
+              🎙 "Turning struggles into sound"
+            </p>
+            <p className="animate__animated animate__fadeInUp animate__delay-3s">
+              🧠 "Mental Health in every bar"
+            </p>
+          </div>
         </div>
       </div>
     </section>
