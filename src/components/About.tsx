@@ -12,9 +12,9 @@ export default function About() {
             on life and mental health.
           </p>
           <p className="text-2xl md:text-3xl font-bold text-purple-500">
-            <br>🔈 "Beats built to break silence."</br>
-            <br> 🎙 "Turning struggles into sound"</br>
-            <br>🧠 "Mental Health in every bar"</br>
+          🔈 "Beats built to break silence." <br />
+  🎙 "Turning struggles into sound" <br />
+  🧠 "Mental Health in every bar
           </p>
         </div>
       </div>
