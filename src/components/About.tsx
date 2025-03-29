@@ -13,6 +13,8 @@ export default function About() {
           </p>
           <p className="text-2xl md:text-3xl font-bold text-purple-500">
             🔈 "Beats built to break silence."
+            🎙 "Turning struggles into sound"
+            🧠 "Mental Health in every bar"
           </p>
         </div>
       </div>

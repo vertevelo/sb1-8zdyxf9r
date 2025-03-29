@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="py-12 bg-black">
       <div className="container mx-auto px-4">
         <div className="flex justify-center space-x-6 mb-8">
-          <a href="https://www.instagram.com/vaynex061?igsh=cjR4NzNvMWRtcG03&utm_source=qr" className="text-gray-400 hover:text-purple-500 transition-colors">
+          <a href="https://www.instagram.com/vaynex061" className="text-gray-400 hover:text-purple-500 transition-colors">
             <Instagram className="w-6 h-6" />
           </a>
           <a href="https://www.youtube.com/@vaynix-061" className="text-gray-400 hover:text-purple-500 transition-colors">
