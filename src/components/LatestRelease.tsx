@@ -21,7 +21,7 @@ export default function LatestRelease() {
               frameBorder="no"
               allow="autoplay"
               title="SoundCloud Player – You are not alone"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2035813820&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/206837814&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
               className="w-full rounded-md shadow-md"
             ></iframe>
             <div
@@ -64,7 +64,7 @@ export default function LatestRelease() {
           {/* YouTube Embed */}
           <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden animate__animated animate__fadeInRight">
             <h3 className="text-xl font-semibold text-white mb-4 px-4 pt-4">
-              🎬 Official Music Video: <span className="text-purple-400">"You Are Not Alone"</span>
+              🎬 Official Music Video: <span className="text-purple-400">"Thats the Way"</span>
             </h3>
             <iframe
               src="https://www.youtube.com/embed/OAUvlEeCwhE?si=6A94vP4nzrFYfI_m"
