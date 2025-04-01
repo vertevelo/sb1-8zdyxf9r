@@ -11,55 +11,57 @@ export default function LatestRelease() {
         <div className="grid md:grid-cols-2 gap-12">
           {/* SoundCloud Embed */}
           <div className="bg-gray-900 rounded-lg overflow-hidden p-4 animate__animated animate__fadeInLeft">
-            <h3 className="text-xl font-semibold text-white mb-4">
-              🎧 Latest Drop on SoundCloud: <span className="text-purple-400">"You Are Not Alone"</span>
-            </h3>
-            <iframe
-              width="100%"
-              height="300"
-              scrolling="no"
-              frameBorder="no"
-              allow="autoplay"
-              title="SoundCloud Player – You are not alone"
-              src="https%3A//api.soundcloud.com/tracks/2068378148&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-              className="w-full rounded-md shadow-md"
-            ></iframe>
-            <div
-              style={{
-                fontSize: '10px',
-                color: '#cccccc',
-                lineBreak: 'anywhere',
-                wordBreak: 'normal',
-                overflow: 'hidden',
-                whiteSpace: 'nowrap',
-                textOverflow: 'ellipsis',
-                fontFamily:
-                  'Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif',
-                fontWeight: 100,
-                marginTop: '0.5rem',
-              }}
-            >
-              <a
-                href="https://soundcloud.com/vaynex-92421161"
-                title="Vaynex"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: '#cccccc', textDecoration: 'none' }}
-              >
-                Vaynex
-              </a>{' '}
-              ·{' '}
-              <a
-                href="https://soundcloud.com/vaynex-92421161/step-by-step"
-                title="Step by Step"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: '#cccccc', textDecoration: 'none' }}
-              >
-                Step by Step
-              </a>
-            </div>
-          </div>
+  <h3 className="text-xl font-semibold text-white mb-4">
+    🎧 Latest Drop on SoundCloud: <span className="text-purple-400">"Step by Step"</span>
+  </h3>
+
+  <iframe
+    width="100%"
+    height="300"
+    scrolling="no"
+    frameBorder="no"
+    allow="autoplay"
+    title="SoundCloud Player – Step by Step"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2068378148&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    className="w-full rounded-md shadow-md"
+  ></iframe>
+
+  <div
+    style={{
+      fontSize: '10px',
+      color: '#cccccc',
+      lineBreak: 'anywhere',
+      wordBreak: 'normal',
+      overflow: 'hidden',
+      whiteSpace: 'nowrap',
+      textOverflow: 'ellipsis',
+      fontFamily:
+        'Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif',
+      fontWeight: 100,
+      marginTop: '0.5rem',
+    }}
+  >
+    <a
+      href="https://soundcloud.com/vaynex-92421161"
+      title="Vaynex"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ color: '#cccccc', textDecoration: 'none' }}
+    >
+      Vaynex
+    </a>{' '}
+    ·{' '}
+    <a
+      href="https://soundcloud.com/vaynex-92421161/step-by-step"
+      title="Step by Step"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ color: '#cccccc', textDecoration: 'none' }}
+    >
+      Step by Step
+    </a>
+  </div>
+</div>
 
           {/* YouTube Embed */}
           <div className="aspect-video bg-gray-900 rounded-lg overflow-hidden animate__animated animate__fadeInRight">
