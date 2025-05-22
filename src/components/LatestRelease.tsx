@@ -52,8 +52,8 @@ export default function LatestRelease() {
     </a>{' '}
     ·{' '}
     <a
-      href="https://soundcloud.com/vaynex-92421161/step-by-step"
-      title="Step by Step"
+      href="https://soundcloud.com/vaynex-92421161/raki-after-silence"
+      title="Raki After Silence"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: '#cccccc', textDecoration: 'none' }}
