@@ -21,10 +21,10 @@ export default function LatestRelease() {
     scrolling="no"
     frameBorder="no"
     allow="autoplay"
-    title="SoundCloud Player – Step by Step"
+    title="SoundCloud Player – Raki after Silence"
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2100131526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
     className="w-full rounded-md shadow-md"
-    ></iframe>
+  ></iframe>
 
   <div
     style={{
