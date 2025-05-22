@@ -12,7 +12,7 @@ export default function LatestRelease() {
           {/* SoundCloud Embed */}
           <div className="bg-gray-900 rounded-lg overflow-hidden p-4 animate__animated animate__fadeInLeft">
   <h3 className="text-xl font-semibold text-white mb-4">
-    🎧 Latest Drop on SoundCloud: <span className="text-purple-400">"Step by Step"</span>
+    🎧 Latest Drop on SoundCloud: <span className="text-purple-400">"Raki after Silence"</span>
   </h3>
 
   <iframe
@@ -58,7 +58,7 @@ export default function LatestRelease() {
       rel="noopener noreferrer"
       style={{ color: '#cccccc', textDecoration: 'none' }}
     >
-      Step by Step
+      Raki after Silence
     </a>
   </div>
 </div>
